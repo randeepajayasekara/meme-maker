@@ -1,8 +1,12 @@
-# Meme Generator Pro
-
-A modern, responsive meme generator built with Next.js, Tailwind CSS, and Fabric.js. Create hilarious memes with an intuitive interface and powerful editing capabilities.
-
-![Meme Generator Preview](https://via.placeholder.com/800x400?text=Meme+Generator+Preview)
+<div align="center">
+  <a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/25746ceb-128f-4196-b300-4e08c042f5b3">
+      <img alt="logo" src="https://github.com/user-attachments/assets/25746ceb-128f-4196-b300-4e08c042f5b3" height="128">
+    </picture>
+  </a>
+  <h3>Meme Generator Pro</h3>
+</div>
 
 ## 🚀 Features
 
